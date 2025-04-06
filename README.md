@@ -4,7 +4,7 @@ Ce projet présente une analyse de données réalisée avec **Google BigQuery** 
 
 Une vidéo explicative de 10 minutes est disponible dans le repo (à télécharger). 
 
-Données disponibles ici : [Jeu de données SNCF](https://ressources.data.sncf.com/explore/dataset/incidents-de-securite-epsf/information/)
+Données disponibles ici : [Jeu de données SNCF](https://ressources.data.sncf.com/explore/dataset/incidents-de-securite-epsf/information/) ou bien télécharger le fichier .parquet
 
 ---
 
