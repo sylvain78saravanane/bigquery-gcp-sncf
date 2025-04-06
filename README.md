@@ -2,7 +2,7 @@
 
 Ce projet présente une analyse de données réalisée avec **Google BigQuery** sur un jeu de données ouvert de la **SNCF**, portant sur les incidents de sécurité ferroviaires enregistrés par l’EPSF (Établissement Public de Sécurité Ferroviaire).
 
-Une vidéo explicative de 10 minutes est disponible dans le repo. 
+Une vidéo explicative de 10 minutes est disponible dans le repo (à télécharger). 
 
 Données disponibles ici : [Jeu de données SNCF](https://ressources.data.sncf.com/explore/dataset/incidents-de-securite-epsf/information/)
 
