@@ -14,7 +14,5 @@ Données disponibles ici : [Jeu de données SNCF](https://ressources.data.sncf.c
 - Réaliser des opérations de **CRUD** (Create, Read, Update, Delete) sur la base de données.
 - Structurer des requêtes analytiques grâce à des **CTE** (Common Table Expressions).
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Les données utilisées restent la propriété de la SNCF et sont publiées sous leur propre licence Open Data.
+Les données utilisées restent la propriété de la SNCF et sont publiées sous leur propre licence Open Data.
 
